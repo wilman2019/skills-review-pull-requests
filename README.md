@@ -19,7 +19,6 @@ _Collaborate and work together on GitHub._
   Define terms and link to docs.github.com.
 -->
 
-
 ## Step 6: Merge your pull request
 
 _Almost there! :heart:_
